@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidClient</string>
+    <string name="firstName">Имя</string>
+    <string name="lastName">Фамилия</string>
+    <string name="userName">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="signUp">Зарегистрироваться</string>
+    <string name="logIn">Авторизоваться</string>
+    <string name="alreadySignUp">У меня есть аккаунт</string>
+    <string name="notSignUp">У меня нет аккаунта</string>
+</resources>
